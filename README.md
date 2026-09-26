@@ -2,6 +2,8 @@
 
 Modern, clean, minimalist personal portfolio website for **NANDYALA NITYA SRI**, a 2026 B.Tech graduate in Artificial Intelligence and Machine Learning, aspiring Software Engineer, ServiceNow Developer, Full-Stack Developer, and AI/ML Engineer.
 
+https://nityasrinandyala.github.io/portfolio/
+
 ---
 
 ## 🌟 Key Updates & Highlights
