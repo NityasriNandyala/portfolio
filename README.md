@@ -74,5 +74,3 @@ git push -u origin main
 ```
 Go to **Settings > Pages > Branch: `main` > `/ (root)` > Save**. Live at `https://nityasrinandyala.github.io/portfolio/`.
 
-### Option 2: Netlify / Vercel
-Drag and drop this project directory directly into the [Netlify](https://app.netlify.com/drop) or [Vercel](https://vercel.com/new) dashboard for instant global CDN hosting.
